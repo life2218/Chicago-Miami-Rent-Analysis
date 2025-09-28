@@ -40,8 +40,5 @@ It showcases skills in **data shaping (Power Query), DAX time intelligence, and 
 ![Dashboard Screenshot](Dashboard_Page2.jpg)
 
 
-## Notes
-- Built with import mode; the `.pbix` includes data for out-of-the-box viewing.
-- If you refresh, Power BI will look for the Excel file under `data/…`.
 
 
