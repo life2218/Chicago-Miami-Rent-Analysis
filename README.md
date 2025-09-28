@@ -36,7 +36,7 @@ It showcases skills in **data shaping (Power Query), DAX time intelligence, and 
 > Full DAX is inside the `.pbix` measures pane.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](./images/dashboard-page1.jpg)
+![Dashboard Screenshot](Dashboard_Page1.jpg)
 
 
 ## Notes
