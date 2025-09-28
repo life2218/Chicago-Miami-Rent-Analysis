@@ -37,6 +37,7 @@ It showcases skills in **data shaping (Power Query), DAX time intelligence, and 
 
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Page1.jpg)
+![Dashboard Screenshot](Dashboard_Page2.jpg)
 
 
 ## Notes
